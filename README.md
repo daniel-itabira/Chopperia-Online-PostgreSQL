@@ -2,6 +2,8 @@
 ---
 **Projeto realizado na UFOP: Universidade Federal de Ouro Preto**
 
+Realizado na disciplina **Banco de Dados 1**
+
 O projeto visa a implementação de uma chopperia online, existindo uma interface para o __*Cliente*__ acessar a maquina de bebidas/faturas e também compõe uma inteface para os __*Funcionários*__ realizarem seu login para iniciar os trabalhos.
 
 ---
